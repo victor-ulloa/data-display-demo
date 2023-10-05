@@ -21,6 +21,7 @@
 		57F48E0C2ACE4DF30031D1C6 /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F48E0B2ACE4DF30031D1C6 /* FruitHeaderView.swift */; };
 		57F48E0F2ACE52260031D1C6 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F48E0E2ACE52260031D1C6 /* SourceLinkView.swift */; };
 		57F48E112ACF13CE0031D1C6 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F48E102ACF13CE0031D1C6 /* FruitNutrientsView.swift */; };
+		57F48E132ACF16840031D1C6 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F48E122ACF16840031D1C6 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		57F48E0B2ACE4DF30031D1C6 /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
 		57F48E0E2ACE52260031D1C6 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
 		57F48E102ACF13CE0031D1C6 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
+		57F48E122ACF16840031D1C6 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				57F48DEB2ACDCEDD0031D1C6 /* DataDisplayDemoApp.swift */,
 				57F48DED2ACDCEDD0031D1C6 /* ContentView.swift */,
 				57F48DFF2ACDFF0C0031D1C6 /* OnboardingView.swift */,
+				57F48E122ACF16840031D1C6 /* SettingsView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57F48E132ACF16840031D1C6 /* SettingsView.swift in Sources */,
 				57F48DFC2ACDF5E30031D1C6 /* FruitCardView.swift in Sources */,
 				57F48E0F2ACE52260031D1C6 /* SourceLinkView.swift in Sources */,
 				57F48DFE2ACDF96B0031D1C6 /* StartButtonView.swift in Sources */,
