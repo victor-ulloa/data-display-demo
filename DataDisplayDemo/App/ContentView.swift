@@ -15,7 +15,9 @@ struct ContentView: View {
         NavigationView {
             List {
                 ForEach(fruits) { fruit in
-                    FruitRowView(fruit: fruit)
+                    NavigationLink(destination: FruitDetailView(fruit: fruit)) {
+                        FruitRowView(fruit: fruit)
+                    }
                 }
             }
             .listStyle(.plain)
