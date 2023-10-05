@@ -22,6 +22,7 @@
 		57F48E0F2ACE52260031D1C6 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F48E0E2ACE52260031D1C6 /* SourceLinkView.swift */; };
 		57F48E112ACF13CE0031D1C6 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F48E102ACF13CE0031D1C6 /* FruitNutrientsView.swift */; };
 		57F48E132ACF16840031D1C6 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F48E122ACF16840031D1C6 /* SettingsView.swift */; };
+		57F48E152ACF1FC10031D1C6 /* SettingsLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F48E142ACF1FC10031D1C6 /* SettingsLabelView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		57F48E0E2ACE52260031D1C6 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
 		57F48E102ACF13CE0031D1C6 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
 		57F48E122ACF16840031D1C6 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		57F48E142ACF1FC10031D1C6 /* SettingsLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLabelView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				57F48E0B2ACE4DF30031D1C6 /* FruitHeaderView.swift */,
 				57F48E0E2ACE52260031D1C6 /* SourceLinkView.swift */,
 				57F48E102ACF13CE0031D1C6 /* FruitNutrientsView.swift */,
+				57F48E142ACF1FC10031D1C6 /* SettingsLabelView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 				57F48E0A2ACE46340031D1C6 /* FruitDetailView.swift in Sources */,
 				57F48E002ACDFF0C0031D1C6 /* OnboardingView.swift in Sources */,
 				57F48E0C2ACE4DF30031D1C6 /* FruitHeaderView.swift in Sources */,
+				57F48E152ACF1FC10031D1C6 /* SettingsLabelView.swift in Sources */,
 				57F48E062ACE06160031D1C6 /* FruitData.swift in Sources */,
 				57F48E032ACE05400031D1C6 /* FruitModel.swift in Sources */,
 				57F48DEC2ACDCEDD0031D1C6 /* DataDisplayDemoApp.swift in Sources */,
