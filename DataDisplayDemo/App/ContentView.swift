@@ -22,6 +22,7 @@ struct ContentView: View {
                     }
                 }
             }
+            .listStyle(.plain)
             .padding(.vertical, 4)
             .navigationTitle("Fruits")
             .toolbar(content: {
