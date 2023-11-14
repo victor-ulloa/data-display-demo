@@ -14,7 +14,7 @@ struct ContentView: View {
     var fruits: [Fruit] = fruitsData
     
     var body: some View {
-        NavigationView {
+        NavigationStack {
             List {
                 ForEach(fruits) { fruit in
                     NavigationLink(destination: FruitDetailView(fruit: fruit)) {
